@@ -111,9 +111,3 @@ Notes:
 3. Reload the file:
    - :luafile % (runs the current Lua file), or
    - restart Neovim.
-
----
-
-If you'd like, I can:
-- produce a consolidated, plain list (single-table) of all mappings for quick copy/paste into a new help file, or
-- add short examples to this README that show exactly how to rebind a few mappings.
