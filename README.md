@@ -1,4 +1,4 @@
-# zharkaron/nvim — Keybindings reference (for :MyHelp)
+# Keybindings reference
 
 This section lists the key mappings you can press to perform actions in this configuration. Use :MyHelp in Neovim to open this README from inside the editor.
 
