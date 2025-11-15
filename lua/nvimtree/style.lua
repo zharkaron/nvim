@@ -1,0 +1,3 @@
+-- lua/nvimtree/style.lua
+-- Example: could tweak colors, icons, or disable git indicators
+-- For now, keep it minimal; you can expand later
